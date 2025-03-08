@@ -143,8 +143,8 @@ const videoModal = document.getElementById("videoModal");
 const videoPlayer = document.getElementById("videoPlayer");
 const videoSource = document.getElementById("videoSource");
 const videos = [
-    "../assets/images/Believe-in-certain-pir.mp4",
-    "../assets/images/Drill-specific-well.mp4"  
+    "../images/Believe-in-certain-pir.mp4",
+    "../images/Drill-specific-well.mp4"  
 ];
 
 let currentVideoIndex = 0;
